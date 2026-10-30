@@ -458,7 +458,7 @@
   <Ad>
     <Id>BOT-KZN</Id>
     <ListingFee>Package</ListingFee>
-    <AdStatus>x2_7</AdStatus>
+    <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Address>Россия, Казань</Address>
     <Category>Предложение услуг</Category>
@@ -516,7 +516,7 @@
   <Ad>
     <Id>BOT-SMR</Id>
     <ListingFee>Package</ListingFee>
-    <AdStatus>x2_7</AdStatus>
+    <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Address>Россия, Самара</Address>
     <Category>Предложение услуг</Category>
@@ -603,7 +603,7 @@
   <Ad>
     <Id>SITE-KRD</Id>
     <ListingFee>Package</ListingFee>
-    <AdStatus>x2_7</AdStatus>
+    <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Address>Россия, Краснодар</Address>
     <Category>Предложение услуг</Category>
